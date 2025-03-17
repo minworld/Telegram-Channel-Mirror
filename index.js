@@ -1,4 +1,4 @@
-const origin = 'https://t.me/s/AppPie'
+const origin = 'https://t.me/s/xhqcankao'
 
 const matcher = [
   [/(https?:)?\/\/telegram\.org\/dl\/(.*?)/g, origin.replace("/s/", "/")],
